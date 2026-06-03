@@ -1,0 +1,10 @@
+# Saved network paths — one per line
+# Copy this file next to FolderScannerCopier.exe on another PC and edit the paths.
+# Lines starting with # are ignored.
+#
+# Examples:
+# \\192.168.1.10\Share
+# \\NAS\SharedCases
+# \\fileserver.company.local\Evidence
+
+\\server\share
